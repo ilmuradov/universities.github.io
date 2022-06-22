@@ -1,0 +1,10 @@
+.container {
+    padding: 10px 20px;
+    transition: .1s;
+    cursor: pointer;
+}
+
+.container:hover {
+    background-color: grey;
+    color: white;
+}
